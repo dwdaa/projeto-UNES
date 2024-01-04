@@ -1,0 +1,43 @@
+@charset "UTF-8";
+*{
+    padding: 0px;
+    margin: 0px;
+} 
+ main{
+    max-width: 900px;
+    margin: auto;
+ }  
+nav{
+    margin: auto;
+    text-align: right;
+    padding-right: 320px;
+    padding-bottom: 20px;
+}
+img#logo{
+    padding-left: 320px;
+    padding-top: 20px;
+    
+}
+div{
+    background-color: #406980;
+    padding: 10px;
+    
+}
+header{
+    background-color: white;
+}
+main{
+    background-color: white;
+    max-width:900px;
+   background-color: white;
+   margin: auto;
+   padding: 0px 10px 0px 10px;
+  
+}
+body{
+    background-color: rgb(228, 228, 228);
+}
+p{
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   font-style: normal;
+}
